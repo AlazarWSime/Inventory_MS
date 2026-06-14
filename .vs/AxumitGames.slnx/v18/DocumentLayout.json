@@ -1,0 +1,658 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\inventory_MS.csproj|c:\\users\\lazrus\\source\\repos\\inventory_ms\\axumitgame\\formapp\\data\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\inventory_MS.csproj|solutionrelative:formapp\\data\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|c:\\users\\lazrus\\source\\repos\\inventory_ms\\axumitgame\\formapp\\db\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\db\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\inventory_MS.csproj|c:\\users\\lazrus\\source\\repos\\inventory_ms\\axumitgame\\formapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\inventory_MS.csproj|solutionrelative:formapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\inventory_MS.csproj|c:\\users\\lazrus\\source\\repos\\inventory_ms\\axumitgame\\formapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\inventory_MS.csproj|solutionrelative:formapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|c:\\users\\lazrus\\source\\repos\\inventory_ms\\axumitgame\\formapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\data\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\data\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery9.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery9.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\session\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\session\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\SQLQuery10.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormApp\\SQLQuery10.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\models\\stocktransactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\models\\stocktransactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAZRUS\\AppData\\Local\\Temp\\cn33swl4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\usercontrols\\itemeditorcontol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\usercontrols\\itemeditorcontol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery7.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery7.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\usercontrols\\itemeditorcontol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\usercontrols\\itemeditorcontol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\usercontrols\\statcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\usercontrols\\statcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\usercontrols\\statcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\usercontrols\\statcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\usercontrols\\editusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\usercontrols\\editusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\usercontrols\\suppliereditorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\usercontrols\\suppliereditorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\usercontrols\\suppliereditorcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\usercontrols\\suppliereditorcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\usercontrols\\suppliereditorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\usercontrols\\suppliereditorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\usercontrols\\editusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\usercontrols\\editusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\usercontrols\\editusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\usercontrols\\editusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\models\\inventorystockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\models\\inventorystockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\formapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C011F547-7F05-4C88-9D36-DB7B883BA5C9}|FormApp\\AxumitGames.csproj|solutionrelative:formapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery9.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery9.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery7.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery7.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Data\\AdminSeeder.cs",
+              "RelativeDocumentMoniker": "FormApp\\Data\\AdminSeeder.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Data\\AdminSeeder.cs",
+              "RelativeToolTip": "FormApp\\Data\\AdminSeeder.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAxwCYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T12:19:31.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FormApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FormApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T12:19:34.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\DB\\DBConnection.cs",
+              "RelativeDocumentMoniker": "FormApp\\DB\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\DB\\DBConnection.cs*",
+              "RelativeToolTip": "FormApp\\DB\\DBConnection.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:05:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "FormApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Form1.cs",
+              "RelativeToolTip": "FormApp\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAjwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T06:22:31.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cn33swl4..sql",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\AppData\\Local\\Temp\\cn33swl4..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\cn33swl4..sql",
+              "ToolTip": "C:\\Users\\LAZRUS\\AppData\\Local\\Temp\\cn33swl4..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\cn33swl4..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-27T19:07:31.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery9.sql ",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery9.sql",
+              "RelativeDocumentMoniker": "SQLQuery9.sql",
+              "ToolTip": "SQLQuery9.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-27T22:32:26.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SQLQuery7.sql ",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery7.sql",
+              "RelativeDocumentMoniker": "SQLQuery7.sql",
+              "ToolTip": "SQLQuery7.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-26T21:09:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-26T10:52:48.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StatCardControl.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\StatCardControl.cs",
+              "RelativeDocumentMoniker": "FormApp\\UserControls\\StatCardControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\StatCardControl.cs",
+              "RelativeToolTip": "FormApp\\UserControls\\StatCardControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:03:13.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Data\\AdminSeeder.cs",
+              "RelativeDocumentMoniker": "FormApp\\Data\\AdminSeeder.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Data\\AdminSeeder.cs",
+              "RelativeToolTip": "FormApp\\Data\\AdminSeeder.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T12:14:54.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StatCardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\StatCardControl.cs",
+              "RelativeDocumentMoniker": "FormApp\\UserControls\\StatCardControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\StatCardControl.cs [Design]",
+              "RelativeToolTip": "FormApp\\UserControls\\StatCardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:03:09.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "FormApp\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "FormApp\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:35:37.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "FormApp\\Models\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Models\\ItemModel.cs",
+              "RelativeToolTip": "FormApp\\Models\\ItemModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:45:07.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SupplierEditorControl.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\SupplierEditorControl.cs",
+              "RelativeDocumentMoniker": "FormApp\\UserControls\\SupplierEditorControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\SupplierEditorControl.cs",
+              "RelativeToolTip": "FormApp\\UserControls\\SupplierEditorControl.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:02:45.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SupplierEditorControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\SupplierEditorControl.Designer.cs",
+              "RelativeDocumentMoniker": "FormApp\\UserControls\\SupplierEditorControl.Designer.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\SupplierEditorControl.Designer.cs",
+              "RelativeToolTip": "FormApp\\UserControls\\SupplierEditorControl.Designer.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowDoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:53:16.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SupplierEditorControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\SupplierEditorControl.cs",
+              "RelativeDocumentMoniker": "FormApp\\UserControls\\SupplierEditorControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\SupplierEditorControl.cs [Design]",
+              "RelativeToolTip": "FormApp\\UserControls\\SupplierEditorControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:56:40.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "FormApp\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "FormApp\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:03:32.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\EditUserControl.cs",
+              "RelativeDocumentMoniker": "FormApp\\UserControls\\EditUserControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\EditUserControl.cs",
+              "RelativeToolTip": "FormApp\\UserControls\\EditUserControl.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAhwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T18:11:22.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FormApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FormApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T07:53:47.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InventoryStockModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Models\\InventoryStockModel.cs",
+              "RelativeDocumentMoniker": "FormApp\\Models\\InventoryStockModel.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Models\\InventoryStockModel.cs",
+              "RelativeToolTip": "FormApp\\Models\\InventoryStockModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T10:44:54.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SQLQuery6.sql ",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\SQLQuery6.sql",
+              "RelativeDocumentMoniker": "SQLQuery6.sql",
+              "ToolTip": "SQLQuery6.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-25T20:17:27.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 78,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "FormApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Form1.cs [Design]",
+              "RelativeToolTip": "FormApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T12:39:18.069Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FormApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FormApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1UAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T12:19:31.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FormApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FormApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAEwF4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:35:25.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FormApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Form1.Designer.cs",
+              "RelativeToolTip": "FormApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAD0IAAAAAAAAAAArwPkDAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:20:00.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Session\\UserSession.cs",
+              "RelativeDocumentMoniker": "FormApp\\Session\\UserSession.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Session\\UserSession.cs",
+              "RelativeToolTip": "FormApp\\Session\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:32:41.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLQuery10.sql",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\SQLQuery10.sql",
+              "RelativeDocumentMoniker": "FormApp\\SQLQuery10.sql",
+              "ToolTip": "SQLQuery10.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-28T04:46:39.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StockTransactionModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Models\\StockTransactionModel.cs",
+              "RelativeDocumentMoniker": "FormApp\\Models\\StockTransactionModel.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Models\\StockTransactionModel.cs",
+              "RelativeToolTip": "FormApp\\Models\\StockTransactionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T19:01:28.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "FormApp\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "FormApp\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:30:10.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "FormApp\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\StockController.cs",
+              "RelativeToolTip": "FormApp\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:30:40.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FormApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FormApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:32:38.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemEditorContol.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\ItemEditorContol.cs",
+              "RelativeDocumentMoniker": "FormApp\\UserControls\\ItemEditorContol.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\ItemEditorContol.cs",
+              "RelativeToolTip": "FormApp\\UserControls\\ItemEditorContol.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAWwNkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:31:37.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "FormApp\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "FormApp\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:29:11.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ItemEditorContol.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\ItemEditorContol.cs",
+              "RelativeDocumentMoniker": "FormApp\\UserControls\\ItemEditorContol.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\ItemEditorContol.cs [Design]",
+              "RelativeToolTip": "FormApp\\UserControls\\ItemEditorContol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:10:06.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\EditUserControl.cs",
+              "RelativeDocumentMoniker": "FormApp\\UserControls\\EditUserControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\EditUserControl.cs [Design]",
+              "RelativeToolTip": "FormApp\\UserControls\\EditUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:04:08.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "FormApp\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Models\\UserModel.cs",
+              "RelativeToolTip": "FormApp\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:35:06.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditUserControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\EditUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "FormApp\\UserControls\\EditUserControl.Designer.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\UserControls\\EditUserControl.Designer.cs",
+              "RelativeToolTip": "FormApp\\UserControls\\EditUserControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:40:58.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Program.cs",
+              "RelativeDocumentMoniker": "FormApp\\Program.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\inventory_MS\\AxumitGame\\FormApp\\Program.cs",
+              "RelativeToolTip": "FormApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T10:08:26.145Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 48,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

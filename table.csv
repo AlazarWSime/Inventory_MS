@@ -1,0 +1,34 @@
+Method / Operation,Purpose (What it does),Recommended Controller,Priority
+User Related,,,
+CreateUser(),Create new user account + hash password,UserController,High
+GetAllUsers(),Load all users for User_Management grid,UserController,High
+GetUserById(),Get single user for editing,UserController,Medium
+UpdateUser(),"Update user details (name, username, role)",UserController,Medium
+DeleteUser(),Delete user,UserController,Medium
+ChangePassword(),Change user's password,UserController or AccountController,Medium
+Login / Auth,,,
+Login(),"Validate username + password, return user info",AccountController,High
+Item Related,,,
+GetAllItems(),Load items for Inventory & ItemEditor grids,ItemController,High
+CreateItem(),Add new item,ItemController,High
+UpdateItem(),Edit item details,ItemController,High
+DeleteItem(),Delete item,ItemController,High
+GetLowStockItems(),Get items below reorder level (for dashboard alerts),ItemController or StockController,High
+Supplier Related,,,
+GetAllSuppliers(),Load suppliers for Supplier_Management grid,SupplierController,High
+CreateSupplier(),Add new supplier,SupplierController,High
+UpdateSupplier(),Edit supplier info,SupplierController,Medium
+DeleteSupplier(),Delete supplier,SupplierController,Medium
+Transaction Related,,,
+RecordTransaction(),"Record Purchase, Sale, Transfer, Adjustment",TransactionController,High
+GetAllTransactions(),Load transaction history,TransactionController,High
+Stock / Inventory,,,
+GetStockByItem(),Get current quantity in each zone,StockController,Medium
+UpdateStock(),Update quantity after transaction,StockController,High
+Role Related,,,
+GetAllRoles(),Load roles into ComboBox (for user creation),UserController,High
+Dashboard Stats,,,
+GetTotalItems(),Total items count,DashboardController or ItemController,Medium
+GetLowStockCount(),Count of low stock items,ItemController,Medium
+GetTotalUsers(),Total users count,UserController,Medium
+GetTotalSuppliers(),Total suppliers count,SupplierController,Medium

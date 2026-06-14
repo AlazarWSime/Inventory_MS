@@ -1,0 +1,18 @@
+﻿Use invetory_MS
+
+CREATE TABLE Users
+(
+  UserID int PRIMARY KEY IDENTITY(1,1),
+  Username NVARCHAR(MAX) NOT NULL,
+  PassCode NVARCHAR(MAX) NOT NULL,
+
+);
+
+SELECT * FROM Users
+
+ALTER TABLE Users 
+ADD Rolle NVARCHAR(MAX);
+
+TRUNCATE TABLE Users
+
+DROP TABLE Users;
